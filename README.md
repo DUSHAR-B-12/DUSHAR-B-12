@@ -7,8 +7,7 @@
 - 🎓 B.Tech Information Technology (Cybersecurity Specialization)  
 - 💻 Passionate about **Cybersecurity, Cloud Security, and Programming**  
 - 📚 Currently solving **LeetCode problems** & building **cybersecurity tools**  
-- 🎯 Goal: Secure a placement and grow into **Security Architect / CISO**  
-- ⚡ Fun fact: I also trade **Forex & Crypto** 📈  
+- 🎯 Goal: Secure a placement and grow into **Security Architect / CISO**   
 
 ---
 
