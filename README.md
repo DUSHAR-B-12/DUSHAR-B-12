@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dushar</h1>
-<h3 align="center">B.Tech IT | Specialization in Cybersecurity | Aspiring Security Architect / CISO</h3>
+<h3 align="center">B.Tech IT | Cybersecurity Engineer </h3>
 
 ---
 
