@@ -33,7 +33,7 @@
 
 ## 📫 Connect With Me  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dushar-b-a1aa17372)  
-- 📧 **your.email@example.com**  
+- 📧 **dushar2006@gmail.com**  
 
 ---
 
