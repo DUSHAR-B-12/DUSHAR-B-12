@@ -3,17 +3,16 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=dushar07&color=blue)
 
 ## 💡 About Me  
-- 🎓 B.Tech in Information Technology (Cybersecurity Specialization)  
-- 🔐 Passionate about **Cybersecurity, Cloud, and System Architecture**  
-- 🌱 Currently building skills in **Linux, Networking, and Security Tools**  
-- 🚀 Preparing for **placements** with a focus on coding + problem-solving  
+- 🎓 B.Tech in Information Technology  
+- 🔐 Interested in **Cybersecurity, Cloud, and System Architecture**  
+- 🌱 Currently learning **Linux, Networking, and Security Tools**  
+- 🚀 Preparing for **placements** with focus on coding + problem-solving  
 
 ---
 
 ## 🛠️ Tech Stack  
 **Languages:** Java, Python, C  
 **Cybersecurity Tools:** Burp Suite, Wireshark, Nmap  
-**Other Tools:** Git, Docker  
 **Domains:** Networking, Operating Systems, Cyber Defense  
 
 ---
@@ -27,8 +26,14 @@
 
 ## 🌟 Current Focus  
 - 🔎 Learning **Linux CLI + Security Tools**  
-- 🧩 Solving coding problems on **LeetCode** for placements  
-- 🛡️ Building strong fundamentals for a **Cybersecurity career**  
+- 🧩 Practicing coding problems on **LeetCode**  
+- 🛡️ Strengthening fundamentals for a **career in Cybersecurity/IT**  
+
+---
+
+## 📫 Connect With Me  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dushar-b-a1aa17372)  
+- 📧 **your.email@example.com**  
 
 ---
 
