@@ -17,15 +17,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 
-**Cybersecurity Tools:**  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Nmap](https://img.shields.io/badge/Nmap-2E8B57?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-
-**Domains:**  
-![Networking](https://img.shields.io/badge/Networking-00C7B7?style=for-the-badge&logo=cisco&logoColor=white)  
-![Operating Systems](https://img.shields.io/badge/Operating%20Systems-444444?style=for-the-badge&logo=linux&logoColor=white)  
-![Cyber Defense](https://img.shields.io/badge/Cyber%20Defense-0078D4?style=for-the-badge&logo=microsoftdefender&logoColor=white)  
 
 ---
 
@@ -37,9 +28,8 @@
 ---
 
 ## 🌟 Current Focus  
-- 🔎 Learning **Linux CLI + Security Tools**  
 - 🧩 Practicing coding problems on **LeetCode**  
-- 🛡️ Strengthening fundamentals for a **career in Cybersecurity/IT**  
+
 
 ---
 
