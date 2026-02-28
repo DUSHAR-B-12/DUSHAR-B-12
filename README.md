@@ -61,7 +61,7 @@
 ## 📫 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/dushar-b-a1aa17372">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:YOUR_EMAIL">
