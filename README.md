@@ -39,24 +39,9 @@
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
 
 ---
 
-## 📌 Featured Projects
-
-- 🔹 **Student Management System** – Java + MySQL
-- 🔹 **Online Quiz Application** – Java OOP based project
-- 🔹 **Banking System Simulation** – Core Java Console App
-
----
 
 ## 📫 Connect With Me
 
